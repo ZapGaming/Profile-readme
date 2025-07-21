@@ -17,3 +17,8 @@ tips: use ```<br/>``` to block it from displaying it beside
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usernamehere&theme=dark&show_icons=true&hide_border=true&layout=compact)
 ```
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zapgaming&theme=dark&show_icons=true&hide_border=true&layout=compact)
+```
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=usernamehere&theme=dark&hide_border=true)
+```
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zapgaming&theme=dark&hide_border=true)
+```
