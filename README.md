@@ -5,7 +5,7 @@ make sure to set it as public and add a readme
 
 Step 2: Add some of the markdowns bellow be sure to change it from usernamehere to yours/or use one of the websites bellow to generate it for u
 
-tips: use ```<br/>``` to block it from displaying it beside
+tips: use ```<br/>``` to block it from displaying it beside each other
 
 websites I recomend:
 
