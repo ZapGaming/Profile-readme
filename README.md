@@ -16,4 +16,4 @@ tips: use ```<br/>``` to block it from displaying it beside
 ```
 ![usernamehere's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usernamehere&theme=dark&show_icons=true&hide_border=true&layout=compact)
 ```
-![usernamehere's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zapgaming&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zapgaming&theme=dark&show_icons=true&hide_border=true&layout=compact)
