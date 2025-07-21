@@ -11,6 +11,10 @@ websites I recomend:
 
 https://gh-stats-gen.vercel.app
 
+https://github-profile-maker.vercel.app
+
+https://rahuldkjain.github.io/gh-profile-readme-generator
+
 
 ## Profile stats
 ```
@@ -25,4 +29,3 @@ https://gh-stats-gen.vercel.app
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=usernamehere&theme=dark&hide_border=true)
 ```
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zapgaming&theme=dark&hide_border=true)
-```
